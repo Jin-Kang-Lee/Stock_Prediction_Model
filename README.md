@@ -1,4 +1,4 @@
-# Stock Prediction Model using Machine Learning
+# Stock Price Prediction Model using Machine Learning
 Using Machine Learning to predict the price of a stock by loading in stock price history and feeding data into the Machine Learning Model, and use it to predict future prices with accuracy.
 Backtesting system was also implemented while using a robust error metric to ensure and predict if the algorithm is performing well.
 
